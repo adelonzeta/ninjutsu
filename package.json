@@ -1,0 +1,9 @@
+{
+  "name": "ninjutsu",
+  "version": "0.0.0",
+  "description": "parked npm package",
+  "main": "index.js",
+  "repository": "https://github.com/adelonzeta/ninjutsu.git",
+  "author": "Adelon Zeta <adelonzeta@gmail.com>",
+  "license": "MIT"
+}
